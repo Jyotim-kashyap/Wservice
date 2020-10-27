@@ -61,7 +61,7 @@
 #bottom_content .container		{width:100%; margin:0 auto;}
 #bottom_content .container h4 	{ font-size: 1.571em; padding-bottom: 20px;}
 #bottom_content .container h4 span {display:block;}
-.pannel_img							{position:relative; left:0%; top:0%;}
+.pannel_img							{position:relative; left:0%; top:0%;, object-fit: contain;}
 .pannel_img img						{width:80%; margin-left:20px;}	
 .most_left							{width:94%; text-align:center; margin:auto;  padding-bottom: 32px;}	
 .most_left2							{width:94%; text-align:center; margin:auto; margin-top:10px;}
