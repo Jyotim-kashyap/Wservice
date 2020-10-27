@@ -526,7 +526,7 @@ html {
 .textarea							{width:271px;}
 .logo								{margin-left:5%;}
 
-.phone2								{padding-left:0px;}
+.phone2								{padding-left:0px;float: right;}
 .mail2								{padding-left:0px;}
 
 
